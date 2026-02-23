@@ -29,7 +29,7 @@ Sistema de clasificación de enfermedades en hojas de papa basado en **Redes Neu
 - Papa Sana  
 - Tizón Tardío  
 - Tizón Temprano  
-- (Otras clases según el dataset utilizado)
+
 
 ---
 
