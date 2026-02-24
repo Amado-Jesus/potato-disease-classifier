@@ -64,7 +64,7 @@ Se prestó especial atención a posibles desbalances en el dataset para evitar b
 
 ## 🖥️ Aplicación Web
 
-La aplicación fue desarrollada con **Streamlit** y permite:
+La aplicación fue desarrollada con [Streamlit](https://potato-disease-classifierapp-kvehrcjnnt5f2orrmuokld.streamlit.app/) y permite:
 
 - 📤 Subir una imagen (`.jpg` / `.png`)
 - 🖼 Visualizar la imagen cargada
