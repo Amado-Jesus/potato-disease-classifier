@@ -4,7 +4,7 @@
 
 Este proyecto consiste en el desarrollo de una aplicación web interactiva construida con **Streamlit**, cuyo objetivo es permitir a agricultores, técnicos agrícolas e investigadores cargar imágenes de hojas de papa para detectar automáticamente enfermedades mediante un modelo de **Deep Learning (PyTorch)** previamente entrenado.
 
-La aplicación se enfoca en la **detección temprana**, la **rapidez de diagnóstico** y el **apoyo a la toma de decisiones agrícolas**, reduciendo el margen de error humano en la inspección visual tradicional.
+La aplicación se enfoca en la **detección temprana**, la **rapidez de diagnóstico** y el **apoyo a la toma de decisiones agrícolas**, reduciendo el margen de error humano en la inspección visual tradicional. La carpeta **prueba** incluye algunas imagenes que el usuario puede ingresar para ver el funcionamiento de la aplicación
 
 ---
 
