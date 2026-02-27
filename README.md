@@ -58,7 +58,7 @@ Se utilizaron las siguientes métricas:
 - **F1-score** → equilibrio entre precisión y recall  
 - **Matriz de Confusión** → análisis detallado de errores por clase  
 
-Se prestó especial atención a posibles desbalances en el dataset para evitar baja precisión en clases minoritarias.
+
 
 ---
 
